@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoyonStephane
-- 👀 I’m interested in Front Deve
+- 👀 I’m interested in Front Dev
 - 🌱 I’m currently learning Three.Js
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me stephane.goyon@gmail.com
